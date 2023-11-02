@@ -1,0 +1,7 @@
+* myboxsters
+
+This is a description of my myboxsters.
+
+** Usage
+
+To use my project, run this command: ./myproject --verbose
